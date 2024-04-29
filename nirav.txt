@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello i am nirav78
+=======
+hello i am nirav.
+added new branch name as NIRAV 
+>>>>>>> 20edce42e54796e0a381e80a2dd7c429c578bd95
